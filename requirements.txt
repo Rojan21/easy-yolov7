@@ -1,3 +1,5 @@
+
+-e git+https://github.com/samson-wang/cython_bbox.git#egg=cython-bbox
 appdirs==1.4.4
 astor==0.8.1
 attrdict==2.0.1
